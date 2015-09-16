@@ -1,0 +1,38 @@
+body {
+	font-family: Verdana;
+}
+section {
+	border-radius: 5px;
+}
+h1 {
+	color: #99FF99;
+}
+#header {
+	width: 100%;
+	margin-top: 10px;
+	height: 60px;
+	margin-bottom: 10px;
+	background-color: #009933;
+}
+
+.content {
+	width: 96%;
+	height: 100%;
+	background-color: #CCB299;
+	padding: 2%;
+}
+#introimg {
+	width: 400px;
+	border-radius: 5px;
+}
+section figure img {
+	width: 500px;
+	border-radius: 5px;
+}
+section h2 {
+	font-size: 1.2em;
+	transition: font-size 2s;
+}
+section h2:hover {
+	font-size: 1.8em;
+}
